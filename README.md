@@ -1,5 +1,13 @@
 
 <h1 align="center">Hi  👋 I'm Shritesh Bucche</h1>
+
+<p>Solution-focused and detail-oriented aspiring full-stack developer.
+Capable of writing production-ready code using React, Redux, and
+CSS on the frontend, Node.js and Express.js on the backend to
+build single-page applications. Passionate about coding and
+strongly interested in working in a fast-paced environment.</p>
+<br/>
+
 <h3 align="center">Aspiring web developer dedicated to mastering the Art of Web Development</h3>
 <img  align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" /> 
 
